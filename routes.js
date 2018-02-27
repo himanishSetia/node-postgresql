@@ -1,5 +1,5 @@
 const pg = require('pg');
-const connectionString = process.env.DATABASE_URL || 'postgresql://root:2912040@localhost:5432/movieDB';
+const connectionString = process.env.DATABASE_URL || 'postgresql-globular-31551:5432/movieDB';
 // const client = new pg.Client(connectionString);
 
 
