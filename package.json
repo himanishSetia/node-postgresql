@@ -1,0 +1,16 @@
+{
+  "name": "node-postgresql",
+  "version": "1.0.0",
+  "description": "Connectivity with postgresql using nodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "Himanish Setia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "^6.1.0"
+  }
+}
